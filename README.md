@@ -1,9 +1,9 @@
-CIP-B103 Lab [#] – Packet Analysis with TShark (Nitroba Case)
+CIP-B103 Lab 2 – Packet Analysis with TShark (Nitroba Case)
 
 Student: Fuseini Imoru Kantuogaa
 Registration: C11/26/DFIT/17291
 Course: CIP-B103
-Lab: Lab [#] – Network Traffic Analysis & Anonymous Message Attribution
+Lab: Lab 2 – Network Traffic Analysis & Anonymous Message Attribution
 Date: 13–14 September 2026
 Environment: Kali Linux
 
